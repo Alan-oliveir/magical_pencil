@@ -10,11 +10,11 @@ Este projeto é uma aplicação em Python que transforma imagens em desenhos uti
 ## Inspiração
 Este projeto foi inspirado pelos seguintes artigos:
 
-1. Tratamento de Imagens com Python, da Hashtag Treinamentos.
+1. [Tratamento de Imagens com Python](https://www.hashtagtreinamentos.com/tratamento-de-imagens-com-python), da Hashtag Treinamentos.
 
    - O artigo discute como manipular imagens com Python usando as bibliotecas OpenCV e PIL, abordando funções básicas como conversão para tons de cinza, inversão de cores e aplicação de filtros de blur.
 
-2. Transformando Imagens em Desenhos Realistas com Python e OpenCV, do UsandoPy.
+2. [Transformando Imagens em Desenhos Realistas com Python e OpenCV](https://www.usandopy.com/pt/projetos-em-python/transformando-imagens-em-desenhos-realistas-com-python-e-opencv/), do UsandoPy.
 
    - Este artigo apresenta uma abordagem detalhada para transformar imagens em desenhos realistas, usando técnicas de processamento de imagem como inversão de cores e divisão de imagem com blur gaussiano.
 
@@ -27,6 +27,9 @@ Embora os dois artigos tenham fornecido a base para este projeto, algumas difere
 - Logging e tratamento de erros: O projeto inclui mensagens de log para facilitar o diagnóstico de problemas, bem como tratamento de exceções mais robusto, com feedback claro para o usuário via messagebox.
 
 Além dos artigos citados anteriormente, foi usado IA para suporte no desenvolvimento deste projeto. Sendo que o ChatGPT foi usado para auxiliar na otimização do código e na aplicação de correções de erros.
+
+## Screenshot
+![screen](https://github.com/Alan-oliveir/magical_pencil/blob/main/images/screenshot.png)
 
 ## Como executar o projeto
 ### Pré-requisitos
