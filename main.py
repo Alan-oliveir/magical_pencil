@@ -20,6 +20,7 @@ class App(ctk.CTk):
         self.image_path = None
         self.scale_value = 256  # Default scale value
         self.geometry("380x424")
+        self.resizable(False, False)
         self.title("Magical Pencil")
 
         # Define fonts
