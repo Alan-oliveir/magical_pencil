@@ -26,6 +26,8 @@ Embora os dois artigos tenham fornecido a base para este projeto, algumas difere
 - Gerenciamento de arquivos: Implementei uma função para salvar automaticamente as imagens processadas em uma pasta específica (output), criando o diretório se necessário.
 - Logging e tratamento de erros: O projeto inclui mensagens de log para facilitar o diagnóstico de problemas, bem como tratamento de exceções mais robusto, com feedback claro para o usuário via messagebox.
 
+Além dos artigos citados anteriormente, foi usado IA para suporte no desenvolvimento deste projeto. Sendo que o ChatGPT foi usado para auxiliar na otimização do código e na aplicação de correções de erros.
+
 ## Como executar o projeto
 ### Pré-requisitos
 Certifique-se de ter o Python 3.x instalado e as seguintes bibliotecas:
