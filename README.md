@@ -16,7 +16,7 @@ Este projeto foi inspirado pelos seguintes artigos:
 
 2. Transformando Imagens em Desenhos Realistas com Python e OpenCV, do UsandoPy.
 
-- Este artigo apresenta uma abordagem detalhada para transformar imagens em desenhos realistas, usando técnicas de processamento de imagem como inversão de cores e divisão de imagem com blur gaussiano.
+   - Este artigo apresenta uma abordagem detalhada para transformar imagens em desenhos realistas, usando técnicas de processamento de imagem como inversão de cores e divisão de imagem com blur gaussiano.
 
 ## Diferenças em relação aos artigos originais
 Embora os dois artigos tenham fornecido a base para este projeto, algumas diferenças e melhorias foram implementadas na versão final:
@@ -29,16 +29,14 @@ Embora os dois artigos tenham fornecido a base para este projeto, algumas difere
 ## Como executar o projeto
 ### Pré-requisitos
 Certifique-se de ter o Python 3.x instalado e as seguintes bibliotecas:
-
-´´´ bash
+``` bash
 pip install customtkinter pillow opencv-python
-´´´
+```
 ### Execução
 Clone este repositório e execute o script principal:
-
-''' bash
+``` bash
 python main.py
-'''
+```
 ___
 ## Licença
 Este projeto foi desenvolvido como uma demonstração educacional e é de código aberto. No entanto, certifique-se de respeitar os direitos dos autores dos artigos que inspiraram esta implementação.
