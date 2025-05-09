@@ -14,9 +14,9 @@ Este projeto foi inspirado pelos seguintes artigos:
 
    - O artigo discute como manipular imagens com Python usando as bibliotecas OpenCV e PIL, abordando funções básicas como conversão para tons de cinza, inversão de cores e aplicação de filtros de blur.
 
-2. [Transformando Imagens em Desenhos Realistas com Python e OpenCV](https://www.usandopy.com/pt/projetos-em-python/transformando-imagens-em-desenhos-realistas-com-python-e-opencv/), do UsandoPy.
+2. [Criando um conversor de imagens para desenho a lápis com Python](https://www.usandopy.com/projetos-em-python/criando-um-conversor-de-imagens-para-desenho-a-lapis-com-python/), do UsandoPy.
 
-   - Este artigo apresenta uma abordagem detalhada para transformar imagens em desenhos realistas, usando técnicas de processamento de imagem como inversão de cores e divisão de imagem com blur gaussiano.
+   - Este artigo apresenta uma abordagem detalhada para transformar imagens em desenhos, usando técnicas de processamento de imagem como inversão de cores e divisão de imagem com blur gaussiano.
 
 ## Diferenças em relação aos artigos originais
 Embora os dois artigos tenham fornecido a base para este projeto, algumas diferenças e melhorias foram implementadas na versão final:
