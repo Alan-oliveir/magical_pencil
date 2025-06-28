@@ -2,7 +2,7 @@
 
 ### Este projeto foi inspirado nos seguintes artigos:
 - https://www.hashtagtreinamentos.com/tratamento-de-imagens-com-python
-- https://www.usandopy.com/pt/projetos-em-python/transformando-imagens-em-desenhos-realistas-com-python-e-opencv/
+- https://www.usandopy.com/projetos-em-python/criando-um-conversor-de-imagens-para-desenho-a-lapis-com-python/
 
 ### Créditos da imagem e ícone:
 - [Write icons created by Aficons studio - Flaticon](https://www.flaticon.com/free-icons/write "write icons") 
